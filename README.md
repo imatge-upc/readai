@@ -22,7 +22,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ### SPRING 2016 
 #### Wednesdays from 11:00am to 12:00pm
-#### @ UB Plaça Universitat, Maths school, 2nd floor, Room T1
+#### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T1
 * 29/03/2016 (Gabriel de Oliveira) Mattis Paulin, Julien Mairal, Matthijs Douze, Zaid Harchaoui, Florent Perronnin, Cordelia Schmid. <a href="http://arxiv.org/pdf/1603.00438v1.pdf/">Convolutional Patch Representations for Image Retrieval: an Unsupervised Approach</a>, arxiv 2016.
 
 * 15/03/2016 (<a href="https://docs.google.com/presentation/d/1CItqjtAYa_OKVLs5BqqCzM8dEbCwkwit4Ooem_WJpY0/edit#slide=id.phttps://docs.google.com/presentation/d/1CItqjtAYa_OKVLs5BqqCzM8dEbCwkwit4Ooem_WJpY0/edit#slide=id.p">Slides by Marc Bolaños</a>)&nbsp;</span><span style="color: #222222; font-family: Arial, sans-serif;"><span style="font-size: 13px; line-height: 16.12px;">: Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. <a href="http://cnnlocalization.csail.mit.edu/">Learning Deep Features for Discriminative Localization</a>, CVPR 2016.
