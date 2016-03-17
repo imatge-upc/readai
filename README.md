@@ -20,14 +20,18 @@ The reading group will meet at UPC and UB analyze a recent scientific publicatio
 Other reading groups with public listings: [University of Texas](http://vision.cs.utexas.edu/readinggroup/), [University of Toronto](http://www.cs.toronto.edu/~mbrubake/visreading/), [University of British Columbia](http://www.cs.ubc.ca/labs/lci/cvrg/), [Stanford University](https://www.facebook.com/groups/855857951197037/). 
 
 
-### SPRING 2016 @ UB Plaça Universitat (Wednesdays from 11:00am to 12:00pm @ 2nd floor, Room T1)
+### SPRING 2016 
+#### Wednesdays from 11:00am to 12:00pm
+#### @ UB Plaça Universitat, Maths school, 2nd floor, Room T1
+
 * 15/03/2016 (Marc Bolaños) Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. <a href="http://cnnlocalization.csail.mit.edu/">Learning Deep Features for Discriminative Localization</a>, CVPR 2016.
 * 08/03/2016 (Cosmin Bercea) Jeffrey Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrel. [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.html), CVPR 2015. [code](https://github.com/BVLC/caffe/pull/2033)
 * 01/03/2016 (Marc Carné): Xiong, Bo, and Kristen Grauman. ["Detecting snap points in egocentric video with a web photo prior."](http://vision.cs.utexas.edu/projects/ego_snappoints/); In Computer Vision–ECCV 2014, pp. 282-298. Springer International Publishing, 2014.
 
 * 23/02/016 (<a href="https://drive.google.com/file/d/0B_EUoF1fY47OcUZxYndDdjNMS0k/view?usp=sharing">Slides by Maya Aghaei</a>):&nbsp;</span><span style="color: #222222; font-family: Arial, sans-serif;"><span style="font-size: 13px; line-height: 16.12px;">Yue-Hei Ng, Joe, Matthew Hausknecht, Sudheendra Vijayanarasimhan, Oriol Vinyals, Rajat Monga, and George Toderici.<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Ng_Beyond_Short_Snippets_2015_CVPR_paper.html">&nbsp;"Beyond short snippets: Deep networks for video classification."</a>&nbsp;In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 4694-4702. 2015.&nbsp;<a href="https://youtu.be/oDRl3-X1KkI">[video]</a>&nbsp;<a href="http://googleresearch.blogspot.com.es/2015/04/beyond-short-snippets-deep-networks-for.html">[Google Research post]</a></span></span></li></ul></div>
 
-### SPRING 2016 @ UPC Canpus Nord (Tuesdays from 11:00am to 12:00pm @ D5-003)
+#### Tuesdays from 11:00am to 12:00pm
+#### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
 * 29/03/2016 (Alberto Montes) Yao, Li, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, and Aaron Courville. ["Describing videos by exploiting temporal structure."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Yao_Describing_Videos_by_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 4507-4515. 2015. [[code]](http://gitxiv.com/posts/dKhP7eSaZKEfFmpzt/describing-videos-by-exploiting-temporal-structure)
 
