@@ -39,6 +39,8 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Tuesdays from 11:00am to 12:00pm
 #### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
+* 02/05/2016 (Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125) [[Thew New York Times]](http://www.nytimes.com/2016/03/07/technology/taking-baby-steps-toward-software-that-reasons-like-humans.html?_r=0)
+
 * 26/04/2016 (Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w.html) arXiv preprint arXiv:1511.03416 (2015).
 
 * 12/04/2016 (Alberto Montes): Yao, Li, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, and Aaron Courville. ["Describing videos by exploiting temporal structure."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Yao_Describing_Videos_by_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 4507-4515. 2015. [[code]](http://gitxiv.com/posts/dKhP7eSaZKEfFmpzt/describing-videos-by-exploiting-temporal-structure)
