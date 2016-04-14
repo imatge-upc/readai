@@ -41,11 +41,13 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Tuesdays from 11:00am to 12:00pm
 #### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
+* 24/05/2016 (Elisa Sayrol): Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, "Saliency Unified: A Deep Architecture for simultaneous Eye Fixation Prediction and Salient Object Segmentation". In Proceedings of the IEEE International Conference on Computer Vision, 2016.
+
 * 17/05/2016 (Andrea Ferri): Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, and Wanli Ouyang, [T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos](http://arxiv.org/pdf/1604.02532v1.pdf), arXiv April 09 2016 [[code](https://github.com/myfavouritekk/T-CNN)]
 
-* 10/05/2016 (Elisa Sayrol): Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, "Saliency Unified: A Deep Architecture for simultaneous Eye Fixation Prediction and Salient Object Segmentation". In Proceedings of the IEEE International Conference on Computer Vision, 2016.
+* 10/06/2016 (Albert Jiménez): Gordo, Albert, Jon Almazan, Jerome Revaud, and Diane Larlus. ["Deep Image Retrieval: Learning global representations for image search."](http://arxiv.org/abs/1604.01325) arXiv preprint arXiv:1604.01325 (2016).
 
-* 02/05/2016 (Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125) [[Thew New York Times]](http://www.nytimes.com/2016/03/07/technology/taking-baby-steps-toward-software-that-reasons-like-humans.html?_r=0)
+* 03/05/2016 (Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125) [[Thew New York Times]](http://www.nytimes.com/2016/03/07/technology/taking-baby-steps-toward-software-that-reasons-like-humans.html?_r=0)
 
 * 26/04/2016 (Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) In Proceedings of the IEEE International Conference on Computer Vision, 2016.
 
