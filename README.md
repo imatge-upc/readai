@@ -17,7 +17,7 @@ How do computers see ? How can they understand the contents of a scene captured 
 
 The reading group will meet at UPC and UB analyze a recent scientific publication. Each week, a different member of the group will prepare a set of slides to be shared and discussed with the attendees, who will have also previously read the paper. UPC-MET students will receive the corresponding ECTS according to their activity before and during each session. If you are interested in attending, send an e-mail to professor [Xavier Giró](xavier.giro@upc.edu) from the [UPC Image Processing Group](http://www.imatge.upc.edu/).
 
-Other reading groups with public listings: [University of Texas](http://vision.cs.utexas.edu/readinggroup/), [University of Toronto](http://www.cs.toronto.edu/~mbrubake/visreading/), [University of British Columbia](http://www.cs.ubc.ca/labs/lci/cvrg/), [Stanford University](https://www.facebook.com/groups/855857951197037/). 
+Other reading groups with public listings: [University of Texas](http://vision.cs.utexas.edu/readinggroup/), [University of Toronto](http://www.cs.toronto.edu/~mbrubake/visreading/), [University of British Columbia](http://www.cs.ubc.ca/labs/lci/cvrg/), [Stanford University](https://www.facebook.com/groups/855857951197037/), [The Berkeley View](https://theberkeleyview.wordpress.com/). 
 
 
 ### SPRING 2016 
