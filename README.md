@@ -49,9 +49,9 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 10/06/2016 (Albert Jiménez): Gordo, Albert, Jon Almazan, Jerome Revaud, and Diane Larlus. ["Deep Image Retrieval: Learning global representations for image search."](http://arxiv.org/abs/1604.01325) arXiv preprint arXiv:1604.01325 (2016).
 
-* 03/05/2016 (Dèlia Fernàndez): Parikh, Devi, and Kristen Grauman. ["Relative attributes."](http://www.cs.utexas.edu/~grauman/papers/ParikhGrauman_ICCV2011_relative.pdf) In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 503-510. IEEE, 2011.
+* 03/05/2016 (Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) In Proceedings of the IEEE International Conference on Computer Vision, 2016.
 
-* 26/04/2016 (Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) In Proceedings of the IEEE International Conference on Computer Vision, 2016.
+* 26/04/2016 (Dèlia Fernàndez): Parikh, Devi, and Kristen Grauman. ["Relative attributes."](http://www.cs.utexas.edu/~grauman/papers/ParikhGrauman_ICCV2011_relative.pdf) In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 503-510. IEEE, 2011.
 
 * 12/04/2016 ([Video](https://www.youtube.com/watch?v=sM5pxgmAIiA) and [Slides](http://www.slideshare.net/xavigiro/describing-videos-by-exploiting-temporal-structure) by Alberto Montes): Yao, Li, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, and Aaron Courville. ["Describing videos by exploiting temporal structure."](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Yao_Describing_Videos_by_ICCV_2015_paper.html) In Proceedings of the IEEE International Conference on Computer Vision, pp. 4507-4515. 2015. [[code]](http://gitxiv.com/posts/dKhP7eSaZKEfFmpzt/describing-videos-by-exploiting-temporal-structure)
 
