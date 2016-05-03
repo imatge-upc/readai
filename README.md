@@ -51,6 +51,11 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 10/05/2016 (Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) In Proceedings of the IEEE International Conference on Computer Vision, 2016.
 
+* 03/05/2016 ([Slides by Amaia Salvador](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search)): Mohedano E, Salvador A, McGuinness K, Giró-i-Nieto X, O'Connor N, Marqués F. Bags of Local Convolutional Features for Scalable Instance Search. In: ACM International Conference on Multimedia Retrieval (ICMR). New York City, NY; USA: 2016. 
+
+* 03/05/2016 ([Slides by Amaia Salvador](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search)): Salvador A, Giró-i-Nieto X, Marqués F, Satoh S'ichi. Faster R-CNN Features for Instance Search. In: CVPR Workshop Deep Vision. Las Vegas, NV. USA. 2016
+
+
 * 03/05/2016 (Albert Jiménez): Gordo, Albert, Jon Almazan, Jerome Revaud, and Diane Larlus. ["Deep Image Retrieval: Learning global representations for image search."](http://arxiv.org/abs/1604.01325) arXiv preprint arXiv:1604.01325 (2016).
 
 * 26/04/2016 ([Slides](http://www.slideshare.net/xavigiro/relative-attributes-61545128) by Dèlia Fernàndez): Parikh, Devi, and Kristen Grauman. ["Relative attributes."](http://www.cs.utexas.edu/~grauman/papers/ParikhGrauman_ICCV2011_relative.pdf) In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 503-510. IEEE, 2011.
