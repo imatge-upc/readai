@@ -51,7 +51,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 10/05/2016 ([Slides](http://www.slideshare.net/xavigiro/visual7w-grounded-question-answering-in-images) and [Screencast](https://youtu.be/y4lM6_qfR1Q) by Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) CVPR 2016.
 
-* 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search) and [Video](https://vimeo.com/165478041)): Mohedano E, Salvador A, McGuinness K, Giró-i-Nieto X, O'Connor N, Marqués F. Bags of Local Convolutional Features for Scalable Instance Search. In: ACM International Conference on Multimedia Retrieval (ICMR). New York City, NY; USA: 2016. 
+* 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search) and [Video](https://vimeo.com/165478041)): Mohedano E, Salvador A, McGuinness K, Giró-i-Nieto X, O'Connor N, Marqués F. [Bags of Local Convolutional Features for Scalable Instance Search](https://imatge.upc.edu/web/publications/bags-local-convolutional-features-scalable-instance-search). In: ACM International Conference on Multimedia Retrieval (ICMR). New York City, NY; USA: 2016. 
 
 * 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search) and [Video](https://vimeo.com/165478041)): Salvador A, Giró-i-Nieto X, Marqués F, Satoh S'ichi. [Faster R-CNN Features for Instance Search](http://imatge-upc.github.io/retrieval-2016-deepvision/). In: CVPR Workshop Deep Vision. Las Vegas, NV. USA. 2016
 
