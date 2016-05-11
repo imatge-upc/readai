@@ -26,7 +26,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 18/05/2016 (Marc Bolaños) Pingbo Pan, Zhongwen Xu, Yi Yang,Fei Wu,Yueting Zhuang <a href="http://arxiv.org/pdf/1511.03476v1.pdf">Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning</a>,  To appear in CVPR 2016.
  
-* 11/05/2016 (Maya Aghaei) Hyun Soo Park and Jianbo Sh. <a href="http://www.seas.upenn.edu/~hypar/SocialSaliencyPrediction_cameraready.pdf">Social Saliency Prediction</a>,  CVPR 2015.
+* 11/05/2016 (<a href="http://www.slideshare.net/secret/CMdGwKVZMk9WLd">Slides by Maya Aghaei</a>) Hyun Soo Park and Jianbo Sh. <a href="http://www.seas.upenn.edu/~hypar/SocialSaliencyPrediction_cameraready.pdf">Social Saliency Prediction</a>,  CVPR 2015.
 
 * 13/04/2016 (Estefanía Tavalera) Tao Chen, Damian Borth, Trevor Darrell and Shih-Fu Chang. <a href="http://arxiv.org/pdf/1410.8586v1.pdf">DeepSentiBank: Visual sentiment concept classification with deep convolutional neural networks</a>,  arXiv preprint arXiv:1410.8586 (2014).
 
