@@ -28,7 +28,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
  
 * 11/05/2016 (<a href="http://www.slideshare.net/secret/CMdGwKVZMk9WLd">Slides by Maya Aghaei</a>) Hyun Soo Park and Jianbo Sh. <a href="http://www.seas.upenn.edu/~hypar/SocialSaliencyPrediction_cameraready.pdf">Social Saliency Prediction</a>,  CVPR 2015.
 
-* 13/04/2016 (Estefanía Tavalera) Tao Chen, Damian Borth, Trevor Darrell and Shih-Fu Chang. <a href="http://arxiv.org/pdf/1410.8586v1.pdf">DeepSentiBank: Visual sentiment concept classification with deep convolutional neural networks</a>,  arXiv preprint arXiv:1410.8586 (2014).
+* 13/04/2016 (<a href="http://www.slideshare.net/secret/1qSXZjAY7AyZ27">Slides by Estefanía Tavalera</a>) Tao Chen, Damian Borth, Trevor Darrell and Shih-Fu Chang. <a href="http://arxiv.org/pdf/1410.8586v1.pdf">DeepSentiBank: Visual sentiment concept classification with deep convolutional neural networks</a>,  arXiv preprint arXiv:1410.8586 (2014).
 
 * 06/04/2016 (<a href="http://www.slideshare.net/AlejandroCartas/simultaneousdeeptransferacross-domainsandtasks">Slides by Alejandro Cartas</a>)Eric Tzeng, Judy Hoffman, Trevor Darrell, Kate Saenko. <a href="https://www.robots.ox.ac.uk/~vgg/rg/papers/Tzeng_ICCV2015.pdf">Simultaneous Deep Transfer Across Domains and Tasks</a>, ICCV 2015.
  
