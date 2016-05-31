@@ -45,7 +45,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Tuesdays from 11:00am to 12:00pm
 #### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
-* 31/05/2016 ([Slides](http://www.slideshare.net/xavigiro/dynamic-memory-networks-for-visual-and-textual-question-answering) and [Slidecast](https://youtu.be/DjPQRLMMAbw) by Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125) [[Thew New York Times]](http://www.nytimes.com/2016/03/07/technology/taking-baby-steps-toward-software-that-reasons-like-humans.html?_r=0)
+* 31/05/2016 ([Slides](http://www.slideshare.net/xavigiro/dynamic-memory-networks-for-visual-and-textual-question-answering) and [Slidecast](https://youtu.be/DjPQRLMMAbw) by Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125)
 
 * 24/05/2016 (Elisa Sayrol): Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, "Saliency Unified: A Deep Architecture for simultaneous Eye Fixation Prediction and Salient Object Segmentation". In Proceedings of the IEEE International Conference on Computer Vision, 2016.
 
