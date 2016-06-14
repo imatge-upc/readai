@@ -49,7 +49,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * Lu, Yongxi, Tara Javidi, and Svetlana Lazebnik. ["Adaptive Object Detection Using Adjacency and Zoom Prediction."](http://arxiv.org/abs/1512.07711) CVPR 2016.
 
-* 14/06/2016 (Alberto Montes) Shou, Zheng, Dongang Wang, and Shih-Fu Chang. ["Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs."](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) CVPR 2016 [[code](https://github.com/zhengshou/scnn)]
+* 14/06/2016 ([Slidecast](https://youtu.be/2JwRX3umGKE) and [Slides](http://www.slideshare.net/xavigiro/temporal-action-localization-in-untrimmed-videos-via-multi-stage-cnns) by Alberto Montes) Shou, Zheng, Dongang Wang, and Shih-Fu Chang. ["Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs."](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) CVPR 2016 [[code](https://github.com/zhengshou/scnn)]
 
 * 31/05/2016 ([Slides](http://www.slideshare.net/xavigiro/dynamic-memory-networks-for-visual-and-textual-question-answering) and [Slidecast](https://youtu.be/DjPQRLMMAbw) by Santi Pascual): Xiong, Caiming, Stephen Merity, and Richard Socher. ["Dynamic Memory Networks for Visual and Textual Question Answering."](http://arxiv.org/abs/1603.01417) arXiv preprint arXiv:1603.01417 (2016). [[discussion]](https://news.ycombinator.com/item?id=11237125)
 
