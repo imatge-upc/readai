@@ -55,7 +55,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 24/05/2016 (Elisa Sayrol): Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, "Saliency Unified: A Deep Architecture for simultaneous Eye Fixation Prediction and Salient Object Segmentation". In Proceedings of the IEEE International Conference on Computer Vision, 2016.
 
-* 17/05/2016 (Andrea Ferri): Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, and Wanli Ouyang, [T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos](http://arxiv.org/pdf/1604.02532v1.pdf), arXiv April 09 2016 [[code](https://github.com/myfavouritekk/T-CNN)]
+* 17/05/2016 ([Slides by Andrea Ferri](http://www.slideshare.net/xavigiro/tcnn-object-detection-from-video)): Kai Kang, Hongsheng Li, Junjie Yan, Xingyu Zeng, Bin Yang, Tong Xiao, Cong Zhang, Zhe Wang, Ruohui Wang, Xiaogang Wang, and Wanli Ouyang, [T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos](http://arxiv.org/pdf/1604.02532v1.pdf), CVPR 2016 [[code](https://github.com/myfavouritekk/T-CNN)]
 
 * 10/05/2016 ([Slides](http://www.slideshare.net/xavigiro/visual7w-grounded-question-answering-in-images) and [Screencast](https://youtu.be/y4lM6_qfR1Q) by Issey Masuda): Zhu, Yuke, Oliver Groth, Michael Bernstein, and Li Fei-Fei. ["Visual7W: Grounded Question Answering in Images."](http://web.stanford.edu/~yukez/visual7w/index.html) CVPR 2016.
 
