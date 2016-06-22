@@ -49,7 +49,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 19/07/2016 (Xavier Giro-i-Nieto): Visin, Francesco, Kyle Kastner, Aaron Courville, Yoshua Bengio, Matteo Matteucci, and Kyunghyun Cho. ["ReSeg: A Recurrent Neural Network for Object Segmentation."](http://arxiv.org/abs/1511.07053) arXiv preprint arXiv:1511.07053 (2015). [[code]](https://github.com/fvisin/reseg)]
 
-* 21/06/2016 (Miriam Bellver): Lu, Yongxi, Tara Javidi, and Svetlana Lazebnik. ["Adaptive Object Detection Using Adjacency and Zoom Prediction."](http://arxiv.org/abs/1512.07711) CVPR 2016.
+* 21/06/2016 ([Slidecast](https://www.youtube.com/watch?v=YmFtuNwxaNM) and [Slides](http://www.slideshare.net/xavigiro/adaptive-object-detection-using-adjacency-and-zoom-prediction) by Miriam Bellver): Lu, Yongxi, Tara Javidi, and Svetlana Lazebnik. ["Adaptive Object Detection Using Adjacency and Zoom Prediction."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Adaptive_Object_Detection_CVPR_2016_paper.pdf) CVPR 2016. [[code](https://github.com/luyongxi/az-net)]
 
 * 14/06/2016 ([Slidecast](https://youtu.be/2JwRX3umGKE) and [Slides](http://www.slideshare.net/xavigiro/temporal-action-localization-in-untrimmed-videos-via-multi-stage-cnns) by Alberto Montes) Shou, Zheng, Dongang Wang, and Shih-Fu Chang. ["Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs."](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) CVPR 2016 [[code](https://github.com/zhengshou/scnn)]
 
