@@ -24,9 +24,9 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Wednesdays from 11:00am to 12:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T1
 
+* 09/06/2016 (<a href="http://www.slideshare.net/nospotfer/lemore-a-lifelog-engine-for-moments-retrieval-at-ntcir12"> Slides by Gabriel de Oliveira</a>) Gabriel de Oliveira, Alejandro Cartas, Marc Bolaños, Mariella Dimiccoli,  Maya Aghaei, Xavi Giró-i-Nieto, Petia Radeva <a href="https://imatge.upc.edu/web/sites/default/files/pub/cdeOliveira-Barra.pdf">LEMoRe: A Lifelog Engine for Moments Retrieval at the NTCIR-Lifelog LSAT Task</a>, 12th NTCIR Conference, Evaluation of Information Access Technologies, Tokyo, Japan, 2016.
 
-
-* 18/05/2016 (<a href="https://docs.google.com/presentation/d/1wUub78e693NQ8n7bOKYitnvG1mjZy5M41jYwa_0qkVo/edit?usp=sharing"> Slides by Marc Bolaños</a>) Pingbo Pan, Zhongwen Xu, Yi Yang,Fei Wu,Yueting Zhuang <a href="http://arxiv.org/pdf/1511.03476v1.pdf">Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning</a>,  To appear in CVPR 2016.
+* 18/05/2016 (<a href="https://docs.google.com/presentation/d/1wUub78e693NQ8n7bOKYitnvG1mjZy5M41jYwa_0qkVo/edit?usp=sharing"> Slides by Marc Bolaños</a>) Pingbo Pan, Zhongwen Xu, Yi Yang,Fei Wu,Yueting Zhuang <a href="http://arxiv.org/pdf/1511.03476v1.pdf">Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning</a>,   CVPR 2016.
  
 * 11/05/2016 (<a href="http://www.slideshare.net/secret/CMdGwKVZMk9WLd">Slides by Maya Aghaei</a>) Hyun Soo Park and Jianbo Sh. <a href="http://www.seas.upenn.edu/~hypar/SocialSaliencyPrediction_cameraready.pdf">Social Saliency Prediction</a>,  CVPR 2015.
 
