@@ -24,9 +24,9 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Wednesdays from 11:00am to 12:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T1
 
-* 20/07/2016 (<a href=""> Slides by Marc Bolaños</a>) Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, Andrew Y. Ng <a href="http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf">Multimodal Deep Learning/a>,  ICML 2011.
+* 20/07/2016 (Marc Bolaños) Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, Andrew Y. Ng <a href="http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf"> Multimodal Deep Learning </a>,  ICML 2011.
 
-* 13/07/2016 (<a href=" https://drive.google.com/file/d/0Bx7ke1oNC7PfSFVkSDVHM0l1TVE/view?usp=sharing"> Slides by Alejandro Cartas</a>) Georgia Gkioxar, Ross Girshick, Jitendra Malik <a href="https://arxiv.org/pdf/1605.04129v1.pdf">Wontextual Action Recognition with R*CNN</a>,  ICCV 2015.
+* 13/07/2016 (<a href="https://drive.google.com/file/d/0Bx7ke1oNC7PfRV9JSjdMdGZuUms/view?usp=sharing"> Slides by Alejandro Cartas</a>) Georgia Gkioxar, Ross Girshick, Jitendra Malik <a href="https://arxiv.org/pdf/1605.04129v1.pdf">Wontextual Action Recognition with R*CNN</a>,  ICCV 2015.
 
 * 16/06/2016 (<a href="https://www.slideshare.net/secret/FwgVzix1Yn4HvR"> Slides by Maya Aghaei</a>) Maya Aghaei, Mariella Dimiccoli, Petia Radeva <a href="https://arxiv.org/pdf/1605.04129v1.pdf">With Whom Do I Interact? Detecting Social Interactions in Egocentric Photo-streams</a>,  ICPR 2016.
 
