@@ -24,7 +24,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Wednesdays from 11:00am to 12:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T1
 
-* 20/07/2016 (Marc Bolaños) Jiquan Ngiam, Aditya Khosla, Mingyu Kim, Juhan Nam, Honglak Lee, Andrew Y. Ng <a href="http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf"> Multimodal Deep Learning </a>,  ICML 2011.
+* 20/07/2016 (<a href="http://www.slideshare.net/MarcBolaosSol/deep-neural-networks-for-multimodal-learning"> Slides by Marc Bolaños</a>) Marc Bolaños, Álvaro Peris, Francisco Casacuberta and Petia Radeva <a href="http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf"> Deep Neural Networks for Multimodal Learning </a>,  CVPR 2016 challenge on VQA.
 
 * 13/07/2016 (<a href="https://drive.google.com/file/d/0Bx7ke1oNC7PfRV9JSjdMdGZuUms/view?usp=sharing"> Slides by Alejandro Cartas</a>) Georgia Gkioxar, Ross Girshick, Jitendra Malik <a href="https://arxiv.org/pdf/1605.04129v1.pdf">Wontextual Action Recognition with R*CNN</a>,  ICCV 2015.
 
