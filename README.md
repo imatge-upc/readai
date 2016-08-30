@@ -25,11 +25,15 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Albert Jiménez) Rusu, Andrei A., Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. ["Progressive Neural Networks."](https://arxiv.org/abs/1606.04671) arXiv preprint arXiv:1606.04671 (2016).
 * ??/??/?? (Miriam Bellver) Patrick Emani, ["Deep Deterministic Policy Gradients in TensorFlow"](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html). 2016.
 * ??/??/?? (Carles Ventura) Piotr Dollar, ["Learning to segment"](https://research.facebook.com/blog/learning-to-segment/). Facebook AI Research (FAIR), 2016. 
+* ??/??/?? (Junting Pan) 
 * ??/??/?? (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
 ["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
 * ??/??/?? (Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) arXiv preprint arXiv:1511.08250 (2015).
 * ??/??/?? (Victor Garcia) Tang, Yichuan, Nitish Srivastava, and Ruslan R. Salakhutdinov. ["Learning generative models with visual attention."](http://papers.nips.cc/paper/5345-learning-generative-models-with-visual-attention) NIPS 2014.
 * ??/??/?? (Marc Carné) Buso, Vincent, Jenny Benois-Pineau, and Jean-Philippe Domenger. ["Geometrical cues in visual saliency models for active object recognition in egocentric videos."](http://link.springer.com/article/10.1007/s11042-015-2803-2) Multimedia Tools and Applications 74, no. 22 (2015): 10077-10095.
+* ??/??/?? (Victor Campos): Chu, Brian, Vashisht Madhavan, Oscar Beijbom, Judy Hoffman, and Trevor Darrell. ["Best Practices for Fine-tuning Visual Classifiers to New Domains."](http://vashishtm.net/pdf/practices-fine-tuning.pdf) 2016.
+* ??/??/?? (Andrea Calafell): Hu, Ronghang, Marcus Rohrbach, and Trevor Darrell. ["Segmentation from Natural Language Expressions."](http://arxiv.org/abs/1603.06180) ECCV 2016.
+* ??/??/?? (Andrea Calafell): Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. ["Learning to compose neural networks for question answering."](http://arxiv.org/abs/1601.01705) arXiv preprint arXiv:1601.01705 (2016).
 
 ### SPRING 2016 
 #### Wednesdays from 11:00am to 12:00pm
