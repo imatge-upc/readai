@@ -36,6 +36,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Victor Campos): Chu, Brian, Vashisht Madhavan, Oscar Beijbom, Judy Hoffman, and Trevor Darrell. ["Best Practices for Fine-tuning Visual Classifiers to New Domains."](http://vashishtm.net/pdf/practices-fine-tuning.pdf) 2016.
 * ??/??/?? (Andrea Calafell): Hu, Ronghang, Marcus Rohrbach, and Trevor Darrell. ["Segmentation from Natural Language Expressions."](http://arxiv.org/abs/1603.06180) ECCV 2016.
 * ??/??/?? (Andrea Calafell): Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. ["Learning to compose neural networks for question answering."](http://arxiv.org/abs/1601.01705) arXiv preprint arXiv:1601.01705 (2016).
+* ??/??/?? Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
 * 09/09/2016 (Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
 
 
