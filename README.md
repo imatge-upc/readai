@@ -37,7 +37,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Albert Jimenez) Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
 * 23/09/16 (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
 ["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
-* ??/??/?? (ALbert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
+* 09/09/16 (Albert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
 * 09/09/2016 (Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
 
 ### SPRING 2016 
