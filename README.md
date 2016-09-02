@@ -27,8 +27,6 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Carles Ventura) Piotr Dollar, ["Learning to segment"](https://research.facebook.com/blog/learning-to-segment/). Facebook AI Research (FAIR), 2016. 
 * ??/??/?? (Carles Ventura) Shelhamer, Evan, Kate Rakelly, Judy Hoffman, and Trevor Darrell. ["Clockwork Convnets for Video Semantic Segmentation."](https://arxiv.org/abs/1608.03609) arXiv preprint arXiv:1608.03609 (2016).
 * ??/??/?? (Junting Pan) Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan ["Saliency Detection with Recurrent Fully Convolutional Networks"](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf). ECCV 2016.
-* ??/??/?? (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
-["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
 
 * ??/??/?? (Victor Garcia) Tang, Yichuan, Nitish Srivastava, and Ruslan R. Salakhutdinov. ["Learning generative models with visual attention."](http://papers.nips.cc/paper/5345-learning-generative-models-with-visual-attention) NIPS 2014.
 * ??/??/?? (Marc Carné) Buso, Vincent, Jenny Benois-Pineau, and Jean-Philippe Domenger. ["Geometrical cues in visual saliency models for active object recognition in egocentric videos."](http://link.springer.com/article/10.1007/s11042-015-2803-2) Multimedia Tools and Applications 74, no. 22 (2015): 10077-10095.
@@ -36,10 +34,11 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Victor Campos): Chu, Brian, Vashisht Madhavan, Oscar Beijbom, Judy Hoffman, and Trevor Darrell. ["Best Practices for Fine-tuning Visual Classifiers to New Domains."](http://vashishtm.net/pdf/practices-fine-tuning.pdf) 2016.
 * ??/??/?? (Andrea Calafell): Hu, Ronghang, Marcus Rohrbach, and Trevor Darrell. ["Segmentation from Natural Language Expressions."](http://arxiv.org/abs/1603.06180) ECCV 2016.
 * ??/??/?? (Andrea Calafell): Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. ["Learning to compose neural networks for question answering."](http://arxiv.org/abs/1601.01705) arXiv preprint arXiv:1601.01705 (2016).
-* ??/??/?? Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
+* ??/??/?? (Albert Jimenez) Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
+* 23/09/16 (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
+["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
 * ??/??/?? (ALbert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
 * 09/09/2016 (Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
-
 
 ### SPRING 2016 
 #### Wednesdays from 11:00am to 12:00pm
