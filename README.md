@@ -98,7 +98,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/convolutional-features-for-instance-search) and [Video](https://vimeo.com/165478041)): Salvador A, Giró-i-Nieto X, Marqués F, Satoh S'ichi. [Faster R-CNN Features for Instance Search](http://imatge-upc.github.io/retrieval-2016-deepvision/). In: CVPR Workshop Deep Vision. Las Vegas, NV. USA. 2016
 
-* 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search) and [Screencast](https://youtu.be/yT52xDML6ys) by Albert Jiménez]: Gordo, Albert, Jon Almazan, Jerome Revaud, and Diane Larlus. ["Deep Image Retrieval: Learning global representations for image search."](http://arxiv.org/abs/1604.01325) arXiv preprint arXiv:1604.01325 (2016).
+* 03/05/2016 ([Slides](http://www.slideshare.net/xavigiro/deep-image-retrieval-learning-global-representations-for-image-search) and [Screencast](https://youtu.be/yT52xDML6ys) by Albert Jiménez]: Gordo, Albert, Jon Almazan, Jerome Revaud, and Diane Larlus. ["Deep Image Retrieval: Learning global representations for image search."](http://arxiv.org/abs/1604.01325) ECCV 2016.
 
 * 26/04/2016 ([Slides](http://www.slideshare.net/xavigiro/relative-attributes-61545128) by Dèlia Fernàndez): Parikh, Devi, and Kristen Grauman. ["Relative attributes."](http://www.cs.utexas.edu/~grauman/papers/ParikhGrauman_ICCV2011_relative.pdf) In Computer Vision (ICCV), 2011 IEEE International Conference on, pp. 503-510. IEEE, 2011.
 
