@@ -42,9 +42,9 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * ??/??/?? (Andrea Calafell): Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. ["Learning to compose neural networks for question answering."](http://arxiv.org/abs/1601.01705) arXiv preprint arXiv:1601.01705 (2016).
 * ??/??/?? (Albert Jimenez) Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
 * ??/??/?? (Xavier Giró-i-Nieto): Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. ["Hierarchical Multiscale Recurrent Neural Networks."](http://arxiv.org/abs/1609.01704) arXiv preprint arXiv:1609.01704 (2016).
-* 07/10/16 (Víctor Garcia) Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
-* 30/09/16 (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
+* 07/10/16 (Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
 ["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
+* 30/09/16 (Víctor Garcia) Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
 * 23/09/16 (Albert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
 * 09/09/2016 ([Slides](http://www.slideshare.net/xavigiro/recurrent-instance-segmentation-upc-reading-group) and [Slidecast](https://youtu.be/l_WD2OWOqBk) by Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
 
