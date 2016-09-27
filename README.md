@@ -21,7 +21,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 
 ## FALL 2016
-
+#### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 * ??/??/?? (Albert Jiménez) Rusu, Andrei A., Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. ["Progressive Neural Networks."](https://arxiv.org/abs/1606.04671) arXiv preprint arXiv:1606.04671 (2016).
 * ??/??/?? (Miriam Bellver) Patrick Emani, ["Deep Deterministic Policy Gradients in TensorFlow"](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html). 2016.
 * ??/??/?? (Míriam Bellver) Xiang, Yu, Alexandre Alahi, and Silvio Savarese. ["Learning to track: Online multi-object tracking by decision making."](http://cvgl.stanford.edu/projects/MDP_tracking/) ICCV 2015. [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Xiang_Learning_to_Track_ICCV_2015_paper.html)] [[code](https://github.com/yuxng/MDP_Tracking)]
@@ -48,6 +48,17 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * 30/09/16 (Víctor Garcia) Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) arXiv preprint arXiv:1605.05396 (2016).
 * 23/09/16 (Albert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
 * 09/09/2016 ([Slides](http://www.slideshare.net/xavigiro/recurrent-instance-segmentation-upc-reading-group) and [Slidecast](https://youtu.be/l_WD2OWOqBk) by Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
+
+
+
+
+#### Thursday from 13:00am to 14:00pm
+#### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
+
+* 06/10/2016 (Maya Aghaei) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
+<a href="https://arxiv.org/pdf/1604.06433v3.pdf"> Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data</a>, CVPR, 2016.
+
+* 29/09/2016 (Gabriel de Oliveria) Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus <a href="https://arxiv.org/pdf/1604.01325v2.pdf">Deep Image Retrieval: Learning global representations for image search</a>, ECCV, 2016.
 
 ### SPRING 2016 
 #### Wednesdays from 11:00am to 12:00pm
