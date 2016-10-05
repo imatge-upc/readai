@@ -21,28 +21,8 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 
 ## FALL 2016
-#### Fridays at 12pm @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
-* ??/??/?? (Albert Jiménez) Rusu, Andrei A., Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. ["Progressive Neural Networks."](https://arxiv.org/abs/1606.04671) arXiv preprint arXiv:1606.04671 (2016).
-* ??/??/?? (Miriam Bellver) Patrick Emani, ["Deep Deterministic Policy Gradients in TensorFlow"](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html). 2016.
+#### Fridays from 12:00 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
-* ??/??/?? (Carles Ventura) Piotr Dollar, ["Learning to segment"](https://research.facebook.com/blog/learning-to-segment/). Facebook AI Research (FAIR), 2016. 
-* ??/??/?? (Carles Ventura) Shelhamer, Evan, Kate Rakelly, Judy Hoffman, and Trevor Darrell. ["Clockwork Convnets for Video Semantic Segmentation."](https://arxiv.org/abs/1608.03609) arXiv preprint arXiv:1608.03609 (2016).
-* ??/??/?? (Junting Pan) Linzhao Wang, Lijun Wang, Huchuan Lu, Pingping Zhang, Xiang Ruan ["Saliency Detection with Recurrent Fully Convolutional Networks"](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf). ECCV 2016.
-* ??/??/?? (Junting Pan) Cornia, Marcella, Lorenzo Baraldi, Giuseppe Serra, and Rita Cucchiara. "A Deep Multi-Level Network for Saliency Prediction." arXiv preprint arXiv:1609.01064 (2016).
-* ??/??/?? (Junting Pan) Jetley, Saumya, Naila Murray, and Eleonora Vig. ["End-to-End Saliency Mapping via Probability Distribution Prediction."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jetley_End-To-End_Saliency_Mapping_CVPR_2016_paper.html) CVPR 2016.
-* ??/??/?? Bylinskii, Zoya, Tilke Judd, Aude Oliva, Antonio Torralba, and Frédo Durand. ["What do different evaluation metrics tell us about saliency models?."](http://arxiv.org/abs/1604.03605) arXiv preprint arXiv:1604.03605 (2016).
-* ??/??/?? (Míriam Bellver) Ning, Guanghan, Zhi Zhang, Chen Huang, Zhihai He, Xiaobo Ren, and Haohong Wang. ["Spatially Supervised Recurrent Convolutional Neural Networks for Visual Object Tracking."](http://guanghan.info/projects/ROLO/) arXiv preprint arXiv:1607.05781 (2016). [[TensorFlow](https://github.com/Guanghan/ROLO)]
-* ??/??/?? (Victor Garcia) Tang, Yichuan, Nitish Srivastava, and Ruslan R. Salakhutdinov. ["Learning generative models with visual attention."](http://papers.nips.cc/paper/5345-learning-generative-models-with-visual-attention) NIPS 2014.
-* ??/??/?? Mathieu, Michael, Camille Couprie, and Yann LeCun. "Deep multi-scale video prediction beyond mean square error." ICLR 2016. [[Torch](https://github.com/coupriec/VideoPredictionICLR2016)] [[TensorFlow](https://github.com/dyelax/Adversarial_Video_Generation)]
-* ??/??/?? (Marc Carné) Buso, Vincent, Jenny Benois-Pineau, and Jean-Philippe Domenger. ["Geometrical cues in visual saliency models for active object recognition in egocentric videos."](http://link.springer.com/article/10.1007/s11042-015-2803-2) Multimedia Tools and Applications 74, no. 22 (2015): 10077-10095.
-* ??/??/?? (Marc Carné) Hernandez, Javier, Daniel McDuff, Christian Infante, Pattie Maes, Karen Quigley, and Rosalind Picard. "Wearable ESM: differences in the experience sampling method across wearable devices." In Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services, pp. 195-205. ACM, 2016.
-* ??/??/?? (Marc Carné): Bylinskii, Zoya and Isola, Phillip and Bainbridge, Constance and Torralba, Antonio and Oliva, Aude, ["Intrinsic and Extrinsic Effects on Image Memorability"](http://web.mit.edu/zoya/www/docs/figrimProof.pdf). Vision research 2015.
-* ??/??/?? (Míriam Bellver) Sermanet, Pierre, Andrea Frome, and Esteban Real. ["Attention for fine-grained categorization."](http://arxiv.org/abs/1412.7054) ICLR 2015 Workshops.
-* ??/??/?? (Victor Campos): Chu, Brian, Vashisht Madhavan, Oscar Beijbom, Judy Hoffman, and Trevor Darrell. ["Best Practices for Fine-tuning Visual Classifiers to New Domains."](http://vashishtm.net/pdf/practices-fine-tuning.pdf) 2016.
-* ??/??/?? (Andrea Calafell): Hu, Ronghang, Marcus Rohrbach, and Trevor Darrell. ["Segmentation from Natural Language Expressions."](http://arxiv.org/abs/1603.06180) ECCV 2016.
-* ??/??/?? (Andrea Calafell): Andreas, Jacob, Marcus Rohrbach, Trevor Darrell, and Dan Klein. ["Learning to compose neural networks for question answering."](http://arxiv.org/abs/1601.01705) arXiv preprint arXiv:1601.01705 (2016).
-* ??/??/?? (Albert Jimenez) Wu, Pengcheng, Steven CH Hoi, Hao Xia, Peilin Zhao, Dayong Wang, and Chunyan Miao. ["Online multimodal deep similarity learning with application to image retrieval."](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.432.8126&rep=rep1&type=pdf). ACM Multimedia 2013.
-* ??/??/?? (Xavier Giró-i-Nieto): Chung, Junyoung, Sungjin Ahn, and Yoshua Bengio. ["Hierarchical Multiscale Recurrent Neural Networks."](http://arxiv.org/abs/1609.01704) arXiv preprint arXiv:1609.01704 (2016).
 * ??/??/?? (Víctor Garcia) Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu, ["Video Pixel Networks"](https://arxiv.org/abs/1610.00527) arXiv 2016.
 * ??/??/?? (Míriam Bellver) Xiang, Yu, Alexandre Alahi, and Silvio Savarese. ["Learning to track: Online multi-object tracking by decision making."](http://cvgl.stanford.edu/projects/MDP_tracking/) ICCV 2015. [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Xiang_Learning_to_Track_ICCV_2015_paper.html)] [[code](https://github.com/yuxng/MDP_Tracking)]
 * 14/10/16 (Andrea Calafell) Zhong, Yujie, Relja Arandjelović, and Andrew Zisserman. ["Faces In Places: compound query retrieval."](http://www.robots.ox.ac.uk/~vgg/publications/2016/Zhong16/) In BMVC 2016. 
@@ -51,8 +31,6 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * 30/09/16 (Víctor Garcia) Reed, Scott, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee. ["Generative adversarial text to image synthesis."](http://arxiv.org/abs/1605.05396) ICML 2016. [[code](https://github.com/reedscot/icml2016)]
 * 23/09/16 (Albert Jiménez) Yang, Jianwei, Devi Parikh, and Dhruv Batra. ["Joint Unsupervised Learning of Deep Representations and Image Clusters."](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html) CVPR 2016. [[Torch](https://github.com/jwyang/joint-unsupervised-learning)]
 * 09/09/2016 ([Slides](http://www.slideshare.net/xavigiro/recurrent-instance-segmentation-upc-reading-group) and [Slidecast](https://youtu.be/l_WD2OWOqBk) by Manel Baradad) Romera-Paredes, Bernardino, and Philip HS Torr. ["Recurrent instance segmentation."](http://arxiv.org/abs/1511.08250) ECCV 2016.
-
-
 
 
 #### Thursday from 13:00am to 14:00pm
