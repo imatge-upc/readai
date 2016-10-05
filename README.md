@@ -21,7 +21,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 
 ## FALL 2016
-#### @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
+#### Fridays at 12pm @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 * ??/??/?? (Albert Jiménez) Rusu, Andrei A., Neil C. Rabinowitz, Guillaume Desjardins, Hubert Soyer, James Kirkpatrick, Koray Kavukcuoglu, Razvan Pascanu, and Raia Hadsell. ["Progressive Neural Networks."](https://arxiv.org/abs/1606.04671) arXiv preprint arXiv:1606.04671 (2016).
 * ??/??/?? (Miriam Bellver) Patrick Emani, ["Deep Deterministic Policy Gradients in TensorFlow"](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html). 2016.
 
