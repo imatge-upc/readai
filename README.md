@@ -36,6 +36,10 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Thursday from 13:00am to 14:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
 
+
+* 06/10/2016 (Estefania Tavalera) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
+<a href="https://arxiv.org/pdf/1605.02677.pdf"> Building a Large Scale Dataset for Image Emotion Recognition: The Fine Print and The Benchmark.</a>, arxiv, 2016.
+
 * 06/10/2016 (Maya Aghaei) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
 <a href="https://arxiv.org/pdf/1604.06433v3.pdf"> Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data</a>, CVPR, 2016.
 
