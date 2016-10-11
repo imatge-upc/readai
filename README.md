@@ -23,6 +23,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 ## FALL 2016
 #### Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 
+* ??/??/?? (Xavier Giro-i-Nieto) Yao, Li, Nicolas Ballas, Kyunghyun Cho, John R. Smith, and Yoshua Bengio. ["Oracle Performance for Visual Captioning."](https://www.researchgate.net/profile/Li_Yao18/publication/308363878_Oracle_Performance_for_Visual_Captioning/links/57e2172808ae1f0b4d93fe95.pdf) BMCV 2016.
 * ??/??/?? (Víctor Garcia) Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu, ["Video Pixel Networks"](https://arxiv.org/abs/1610.00527) arXiv 2016.
 * ??/??/?? (Míriam Bellver) Xiang, Yu, Alexandre Alahi, and Silvio Savarese. ["Learning to track: Online multi-object tracking by decision making."](http://cvgl.stanford.edu/projects/MDP_tracking/) ICCV 2015. [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Xiang_Learning_to_Track_ICCV_2015_paper.html)] [[code](https://github.com/yuxng/MDP_Tracking)]
 * 14/10/16 (Andrea Calafell) Zhong, Yujie, Relja Arandjelović, and Andrew Zisserman. ["Faces In Places: compound query retrieval."](http://www.robots.ox.ac.uk/~vgg/publications/2016/Zhong16/) In BMVC 2016. 
