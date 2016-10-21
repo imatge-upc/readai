@@ -37,8 +37,10 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Thursday from 13:00am to 14:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
 
+* 20/10/2016 (Marc Bolaños) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
+<a href="https://arxiv.org/pdf/1606.01847.pdf"> Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.</a>, Winner of the Visual Question Answering Challenge at CVPR 2016.
 
-* 06/10/2016 (Estefania Tavalera) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
+* 13/10/2016 (Estefania Tavalera) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
 <a href="https://arxiv.org/pdf/1605.02677.pdf"> Building a Large Scale Dataset for Image Emotion Recognition: The Fine Print and The Benchmark.</a>, arxiv, 2016.
 
 * 06/10/2016 (Maya Aghaei) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
