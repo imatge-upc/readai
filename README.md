@@ -37,7 +37,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Thursday from 13:00am to 14:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
 
-* 20/10/2016 (Marc Bolaños) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
+* 20/10/2016 (Marc Bolaños) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
 <a href="https://arxiv.org/pdf/1606.01847.pdf"> Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.</a>, Winner of the Visual Question Answering Challenge at CVPR 2016.
 
 * 13/10/2016 (Estefania Tavalera) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
