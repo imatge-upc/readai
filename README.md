@@ -38,6 +38,16 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Thursday from 13:00am to 14:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
 
+
+* 10/11/2016 (Javier Castillos Quiroz)  Ethan Fast, William McGrath, Pranav Rajpurkar, Michael Bernstein 
+<a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Augur: Mining Human Behaviors from Fiction to Power Interactive Systems </a> CHI: ACM Conference on Human Factors in Computing Systems, 2016. Honorable Mention.
+
+* 03/11/2016 (Alejandro Cartas)  Minghuang Ma, Haoqi Fan and Kris M. Kitani. 
+<a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Going Deeper into First-Person Activity Recognition.</a> from CVPR 2016.
+
+* 20/10/2016 (Pedro Herruzo)  Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory D. Abowd, Irfan Essa
+<a href="http://users.ece.utexas.edu/~ethomaz/papers/c4.pdf"> Leveraging Context to Support Automated Food Recognition in Restaurants</a> from WACV 2015.
+
 * 20/10/2016 (Marc Bolaños) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
 <a href="https://arxiv.org/pdf/1606.01847.pdf"> Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.</a>, Winner of the Visual Question Answering Challenge at CVPR 2016.
 
