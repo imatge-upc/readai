@@ -25,6 +25,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * ??/??/?? (Xavier Giro-i-Nieto) Yao, Li, Nicolas Ballas, Kyunghyun Cho, John R. Smith, and Yoshua Bengio. ["Oracle Performance for Visual Captioning."](https://www.researchgate.net/profile/Li_Yao18/publication/308363878_Oracle_Performance_for_Visual_Captioning/links/57e2172808ae1f0b4d93fe95.pdf) BMCV 2016.
 * ??/??/?? (Víctor Garcia) Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu, ["Video Pixel Networks"](https://arxiv.org/abs/1610.00527) arXiv 2016.
+* 18/11/16 (Víctor Garcia) Zhu, Jun-Yan, Philipp Krähenbühl, Eli Shechtman, and Alexei A. Efros. ["Generative Visual Manipulation on the Natural Image Manifold."](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/) ECCV 2016.
 * 28/10/16 (Míriam Bellver) Liu, Wei, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, and Scott Reed. ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) ECCV 2016. [[code](https://github.com/weiliu89/caffe/tree/ssd)]
 * 14/10/16 (Andrea Calafell) Zhong, Yujie, Relja Arandjelović, and Andrew Zisserman. ["Faces In Places: compound query retrieval."](http://www.robots.ox.ac.uk/~vgg/publications/2016/Zhong16/) In BMVC 2016. 
 * 07/10/16 ([Slidecast](https://youtu.be/kmGvGH4Ls-I) and [Slides](http://www.slideshare.net/xavigiro/where-should-saliency-models-look-next-upc-reading-group) by Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
