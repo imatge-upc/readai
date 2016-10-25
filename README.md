@@ -56,8 +56,8 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 06/10/2016 (Maya Aghaei) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
 <a href="https://arxiv.org/pdf/1604.06433v3.pdf"> Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data</a>, CVPR, 2016.
-
-* 29/09/2016 (Gabriel de Oliveria) Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus <a href="https://arxiv.org/pdf/1604.01325v2.pdf">Deep Image Retrieval: Learning global representations for image search</a>, ECCV, 2016.
+ 
+* 29/09/2016  (<a href="http://www.slideshare.net/nospotfer/deep-image-retrieval-learning-global-representations-for-image-search-ub-version"> Presented by Gabriel de Oliveira</a>)  Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus <a href="https://arxiv.org/pdf/1604.01325v2.pdf">Deep Image Retrieval: Learning global representations for image search</a>, ECCV, 2016.
 
 ### SPRING 2016 
 #### Wednesdays from 11:00am to 12:00pm
