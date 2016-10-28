@@ -23,7 +23,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
 * 18/11/16 (Víctor Garcia) Zhu, Jun-Yan, Philipp Krähenbühl, Eli Shechtman, and Alexei A. Efros. ["Generative Visual Manipulation on the Natural Image Manifold."](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/) ECCV 2016.
-* 28/10/16 (Míriam Bellver) Liu, Wei, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, and Scott Reed. ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) ECCV 2016. [[code](https://github.com/weiliu89/caffe/tree/ssd)]
+* 28/10/16 ([[Slides]] by Míriam Bellver) Liu, Wei, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, and Scott Reed. ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) ECCV 2016. [[code](https://github.com/weiliu89/caffe/tree/ssd)]
 * 14/10/16 (Andrea Calafell) Zhong, Yujie, Relja Arandjelović, and Andrew Zisserman. ["Faces In Places: compound query retrieval."](http://www.robots.ox.ac.uk/~vgg/publications/2016/Zhong16/) In BMVC 2016. 
 * 07/10/16 ([Slidecast](https://youtu.be/kmGvGH4Ls-I) and [Slides](http://www.slideshare.net/xavigiro/where-should-saliency-models-look-next-upc-reading-group) by Junting Pan) Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba
 ["Where should saliency models look next?"](http://people.csail.mit.edu/recasens/docs/bylinskii_eccv2016.pdf) ECCV 2016
