@@ -42,7 +42,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * 03/11/2016 (Alejandro Cartas)  Minghuang Ma, Haoqi Fan and Kris M. Kitani. 
 <a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Going Deeper into First-Person Activity Recognition.</a> from CVPR 2016.
 
-* 20/10/2016 (Pedro Herruzo)  Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory D. Abowd, Irfan Essa
+* 27/10/2016 (Pedro Herruzo)  Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory D. Abowd, Irfan Essa
 <a href="http://users.ece.utexas.edu/~ethomaz/papers/c4.pdf"> Leveraging Context to Support Automated Food Recognition in Restaurants</a> from WACV 2015.
 
 * 20/10/2016 (<a href="https://docs.google.com/presentation/d/1oUooB8zZQkI_A_5EZ86FT8Un-O55jM0kGNYDqH9Gork/edit?ts=581061d5#slide=id.p">Slides from the authors adapted by Marc Bolaños</a>) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
