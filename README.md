@@ -45,13 +45,13 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * 20/10/2016 (Pedro Herruzo)  Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory D. Abowd, Irfan Essa
 <a href="http://users.ece.utexas.edu/~ethomaz/papers/c4.pdf"> Leveraging Context to Support Automated Food Recognition in Restaurants</a> from WACV 2015.
 
-* 20/10/2016 (Marc Bolaños) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
+* 20/10/2016 (<a href="https://docs.google.com/presentation/d/1oUooB8zZQkI_A_5EZ86FT8Un-O55jM0kGNYDqH9Gork/edit?ts=581061d5#slide=id.p">Slides from the authors adapted by Marc Bolaños</a>) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
 <a href="https://arxiv.org/pdf/1606.01847.pdf"> Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.</a>, Winner of the Visual Question Answering Challenge at CVPR 2016.
 
 * 13/10/2016 (Estefania Tavalera) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
 <a href="https://arxiv.org/pdf/1605.02677.pdf"> Building a Large Scale Dataset for Image Emotion Recognition: The Fine Print and The Benchmark.</a>, arxiv, 2016.
 
-* 06/10/2016 (Maya Aghaei) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
+* 06/10/2016 (<a href="http://www.slideshare.net/secret/sUOEUOkqiFqYw">Slides from Maya Aghaei</a>) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
 <a href="https://arxiv.org/pdf/1604.06433v3.pdf"> Walk and Learn: Facial Attribute Representation Learning from Egocentric Video and Contextual Data</a>, CVPR, 2016.
  
 * 29/09/2016  (<a href="http://www.slideshare.net/nospotfer/deep-image-retrieval-learning-global-representations-for-image-search-ub-version"> Presented by Gabriel de Oliveira</a>)  Albert Gordo, Jon Almazan, Jerome Revaud, Diane Larlus <a href="https://arxiv.org/pdf/1604.01325v2.pdf">Deep Image Retrieval: Learning global representations for image search</a>, ECCV, 2016.
