@@ -49,7 +49,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 * 20/10/2016 (<a href="https://docs.google.com/presentation/d/1oUooB8zZQkI_A_5EZ86FT8Un-O55jM0kGNYDqH9Gork/edit?ts=581061d5#slide=id.p">Slides from the authors adapted by Marc Bolaños</a>) Fukui, A., Park, D. H., Yang, D., Rohrbach, A., Darrell, T., & Rohrbach, M.
 <a href="https://arxiv.org/pdf/1606.01847.pdf"> Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding.</a>, Winner of the Visual Question Answering Challenge at CVPR 2016.
 
-* 13/10/2016 (<a href="http://www.slideshare.net/secret/Ep8KT8YbD6NXoL" Slides by Estefania Tavalera>  </a>) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
+* 13/10/2016 (<a href="http://www.slideshare.net/secret/Ep8KT8YbD6NXoL"> Slides by Estefania Tavalera  </a>) Quanzeng You, Jiebo Luo, Hailin Jin, Jianchao Yang
 <a href="https://arxiv.org/pdf/1605.02677.pdf"> Building a Large Scale Dataset for Image Emotion Recognition: The Fine Print and The Benchmark.</a>, arxiv, 2016.
 
 * 06/10/2016 (<a href="http://www.slideshare.net/secret/sUOEUOkqiFqYw">Slides by Maya Aghaei</a>) Jing Wang, Yu Cheng, Rogerio Schmidt Feris
