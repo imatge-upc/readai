@@ -35,6 +35,16 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 #### Thursday from 13:00am to 14:00pm
 #### @ [UB Plaça Universitat, Maths school](http://www.maia.ub.edu/howtoarrive/index.html), 2nd floor, Room T2
 
+* 15/12/2016 (Eduardo Aguilar)  	Hui Wu, Michele Merler, Rosario Uceda-Sosa, John R. Smith
+<a href="http://dl.acm.org/citation.cfm?doid=2964284.2967205"> Learning to Make Better Mistakes: Semantics-aware Visual Food Recognition  </a>  ACM Multi Media Conference, 2016.
+
+* 01/12/2016 (Mostafa Kamal Sarker)  	TBD
+
+
+* 25/11/2016 (Maria Leyva)  Limin Wang, Sheng Guo, Weilin Huang, Yuanjun Xiong, Yu Qiao
+<a href="https://arxiv.org/pdf/1610.01119.pdf"> Knowledge Guided Disambiguation for Large-Scale
+Scene Classification with Multi-Resolution CNNs. </a> Places365
+
 
 * 10/11/2016 (Javier Castillos Quiroz)  Ethan Fast, William McGrath, Pranav Rajpurkar, Michael Bernstein 
 <a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Augur: Mining Human Behaviors from Fiction to Power Interactive Systems </a> CHI: ACM Conference on Human Factors in Computing Systems, 2016. Honorable Mention.
