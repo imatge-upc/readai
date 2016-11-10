@@ -49,9 +49,8 @@ Scene Classification with Multi-Resolution CNNs. </a> Places365
 * 10/11/2016 (Javier Castillos Quiroz)  Ethan Fast, William McGrath, Pranav Rajpurkar, Michael Bernstein 
 <a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Augur: Mining Human Behaviors from Fiction to Power Interactive Systems </a> CHI: ACM Conference on Human Factors in Computing Systems, 2016. Honorable Mention.
 
-* 03/11/2016 (Alejandro Cartas)  Minghuang Ma, Haoqi Fan and Kris M. Kitani. 
+* 03/11/2016 (<a href="http://www.slideshare.net/AlejandroCartas/going-deeper-into-firstperson-activity-recognition"> Slides by Alejandro Cartas </a>)  Minghuang Ma, Haoqi Fan and Kris M. Kitani. 
 <a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Going Deeper into First-Person Activity Recognition.</a> from CVPR 2016.
-
 
 * 27/10/2016 (<a href="http://www.slideshare.net/pedroherruzosanchez/leveraging-context-to-support-automated-food-recognition-in-restaurants-68054891?utm_source=slideshow02&utm_medium=ssemail&utm_campaign=share_slideshow"> Slides by Pedro Herruzo </a>)  Vinay Bettadapura, Edison Thomaz, Aman Parnami, Gregory D. Abowd, Irfan Essa
 <a href="http://users.ece.utexas.edu/~ethomaz/papers/c4.pdf"> Leveraging Context to Support Automated Food Recognition in Restaurants</a> from WACV 2015.
