@@ -46,7 +46,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 Scene Classification with Multi-Resolution CNNs. </a> Places365
 
 
-* 10/11/2016 (Javier Castillos Quiroz)  Ethan Fast, William McGrath, Pranav Rajpurkar, Michael Bernstein 
+* 10/11/2016 (<a href="https://www.slideshare.net/secret/jKMJRzCeWYftrJ"> Slides by Javier Castillos Quiroz </a>) Ethan Fast, William McGrath, Pranav Rajpurkar, Michael Bernstein 
 <a href="http://www.cs.cmu.edu/~kkitani/pdf/MFK-CVPR16.pdf"> Augur: Mining Human Behaviors from Fiction to Power Interactive Systems </a> CHI: ACM Conference on Human Factors in Computing Systems, 2016. Honorable Mention.
 
 * 03/11/2016 (<a href="http://www.slideshare.net/AlejandroCartas/going-deeper-into-firstperson-activity-recognition"> Slides by Alejandro Cartas </a>)  Minghuang Ma, Haoqi Fan and Kris M. Kitani. 
