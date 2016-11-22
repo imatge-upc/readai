@@ -22,7 +22,8 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
-* 25/11/16 (Víctor Garcia) Zhu, Jun-Yan, Philipp Krähenbühl, Eli Shechtman, and Alexei A. Efros. ["Generative Visual Manipulation on the Natural Image Manifold."](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/) ECCV 2016.
+* 
+* 25/11/16 (Víctor Garcia) Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A, ["Image-to-Image Translation with Conditional Adversarial Nets"](https://phillipi.github.io/pix2pix/). arXiv.
 * 18/11/2016 ([Slides](http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning?ref=https://imatge-upc.github.io/detection-2016-nipsws/) by Míriam Bellver) Miriam Bellver, Xavier Giro-i-Nieto, Ferran Marques, and Jordi Torres. ["Hierarchical Object Detection with Deep Reinforcement Learning."](https://imatge-upc.github.io/detection-2016-nipsws/) In Deep Reinforcement Learning Workshop (NIPS). 2016.
 * 28/10/16 ([Slides](http://www.slideshare.net/xavigiro/ssd-single-shot-multibox-detector) by Míriam Bellver) Liu, Wei, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, and Scott Reed. ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) ECCV 2016. [[code](https://github.com/weiliu89/caffe/tree/ssd)]
 * 14/10/16 (Andrea Calafell) Zhong, Yujie, Relja Arandjelović, and Andrew Zisserman. ["Faces In Places: compound query retrieval."](http://www.robots.ox.ac.uk/~vgg/publications/2016/Zhong16/) In BMVC 2016. 
