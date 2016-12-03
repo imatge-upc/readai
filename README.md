@@ -22,8 +22,8 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)
- 
- 
+* 27/01/17 (Míriam Bellver) Jie, Zequn, Xiaodan Liang, Jiashi Feng, Xiaojie Jin, Wen Lu, and Shuicheng Yan. ["Tree-Structured Reinforcement Learning for Sequential Object Localization."](http://papers.nips.cc/paper/6532-tree-structured-reinforcement-learning-for-sequential-object-localization.pdf) NIPS 2016.	
+* 20/01/17 (Víctor Garcia) To be announced
 * 13/01/17 (Junting Pan) Marcella Cornia, Lorenzo Baraldi, Giuseppe Serra, Rita Cucchiara. [Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model](https://arxiv.org/abs/1611.09571). arXiv 2016. 
 * 25/11/16 ([Slides](http://www.slideshare.net/xavigiro/imagetoimage-translation-with-conditional-adversarial-nets-upc-reading-group) by Víctor Garcia) Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A, ["Image-to-Image Translation with Conditional Adversarial Nets"](https://phillipi.github.io/pix2pix/). arXiv 2016.
 * 18/11/2016 ([Slides](http://www.slideshare.net/xavigiro/hierarchical-object-detection-with-deep-reinforcement-learning?ref=https://imatge-upc.github.io/detection-2016-nipsws/) by Míriam Bellver) Miriam Bellver, Xavier Giro-i-Nieto, Ferran Marques, and Jordi Torres. ["Hierarchical Object Detection with Deep Reinforcement Learning."](https://imatge-upc.github.io/detection-2016-nipsws/) In Deep Reinforcement Learning Workshop (NIPS). 2016.
