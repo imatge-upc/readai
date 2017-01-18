@@ -22,6 +22,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
+* 09/02/2017 (Fran Roldan): Fukui, Akira, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach. ["Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding."](https://arxiv.org/abs/1606.01847) arXiv preprint arXiv:1606.01847 (2016). [[code](https://github.com/akirafukui/vqa-mcb/)] [[demo](http://vqa.daylen.com/)]
 * 02/02/17 (Junting Pan) Marcella Cornia, Lorenzo Baraldi, Giuseppe Serra, Rita Cucchiara. [Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model](https://arxiv.org/abs/1611.09571). arXiv 2016. 
 * 27/01/17 (Víctor Garcia) Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016). [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](http://www.evolvingai.org/ppgn). arXiv 1612.00005. 
 * 16/12/16 (Invited: Adriana Romero) Jégou, Simon, Michal Drozdzal, David Vazquez, Adriana Romero, and Yoshua Bengio. ["The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation."](https://arxiv.org/abs/1611.09326) arXiv preprint arXiv:1611.09326 (2016). [[code](https://github.com/SimJeg/FC-DenseNet)] [[slides](https://github.com/imatge-upc/readcv/raw/master/slides/2016-fall/10-DenseNets.pdf)]
