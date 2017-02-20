@@ -23,7 +23,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
 * 06/03/2017 (Alberto Bozal): Bashivan, Pouya, Irina Rish, Mohammed Yeasin, and Noel Codella. ["Learning representations from EEG with deep recurrent-convolutional neural networks."](https://arxiv.org/abs/1511.06448) ICLR 2016. [[code](https://github.com/pbashivan/EEGLearn)]
-* 20/02/2017 (Xunyu Lin): Misra, Ishan, C. Lawrence Zitnick, and Martial Hebert. ["Shuffle and learn: unsupervised learning using temporal order verification."](https://arxiv.org/abs/1603.08561) ECCV 2016. [[code](https://github.com/imisra/shuffle-tuple)]
+* 20/02/2017 ([Slides](https://www.slideshare.net/xavigiro/02-shuffle-and-learn-unsupervised-learning-using-temporal-order-verification) by Xunyu Lin): Misra, Ishan, C. Lawrence Zitnick, and Martial Hebert. ["Shuffle and learn: unsupervised learning using temporal order verification."](https://arxiv.org/abs/1603.08561) ECCV 2016. [[code](https://github.com/imisra/shuffle-tuple)]
 
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
