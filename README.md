@@ -1,5 +1,5 @@
-# ReadCV
-## Computer Vision Reading Group in Barcelona
+# ReadAI
+## Artificial Intelligence Reading Group in UPC Barcelona
 
 A joint collaboration between:
 
@@ -13,7 +13,7 @@ A joint collaboration between:
 [logo-upc]: ./logos/upc.jpg "Universitat Politecnica de Catalunya"
 [logo-ub]: ./logos/ub.png "Universitat de Barcelona"
 
-How do computers see ? How can they understand the contents of a scene captured by a camera ? The Computer Vision Reading Group addresses these problems, with special emphasis with <strong>deep learning</strong> and <strong>big data</strong> applications. 
+How do computers learn ? Can the see, listean or reason the way humans do ? The Artificial Intelligence Reading Group (ReadAI) addresses these problems. 
 
 The reading group will meet at UPC and UB analyze a recent scientific publication. Each week, a different member of the group will prepare a set of slides to be shared and discussed with the attendees, who will have also previously read the paper. UPC-MET students will receive the corresponding ECTS according to their activity before and during each session. If you are interested in attending, send an e-mail to professor [Xavier Giró](xavier.giro@upc.edu) from the [UPC Image Processing Group](http://www.imatge.upc.edu/).
 
