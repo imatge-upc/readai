@@ -22,10 +22,12 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
+* 06/03/2017 (Alberto Bozal): Bashivan, Pouya, Irina Rish, Mohammed Yeasin, and Noel Codella. ["Learning representations from EEG with deep recurrent-convolutional neural networks."](https://arxiv.org/abs/1511.06448) ICLR 2016. [[code](https://github.com/pbashivan/EEGLearn)]
 * 20/02/2017 (Xunyu Lin): Misra, Ishan, C. Lawrence Zitnick, and Martial Hebert. ["Shuffle and learn: unsupervised learning using temporal order verification."](https://arxiv.org/abs/1603.08561) ECCV 2016. [[code](https://github.com/imisra/shuffle-tuple)]
 
 ## FALL 2016
 #### Usually on Fridays from 12:15 to 13:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
+
 * 10/02/2017 (Fran Roldan): Fukui, Akira, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach. ["Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding."](https://arxiv.org/abs/1606.01847) arXiv preprint arXiv:1606.01847 (2016). [[code](https://github.com/akirafukui/vqa-mcb/)] [[demo](http://vqa.daylen.com/)]
 * 03/02/17 ([Slides](http://www.slideshare.net/xavigiro/predicting-human-eye-fixations-via-an-lstmbased-saliency-attentive-model-upc-reading-group-2017) by Junting Pan) Marcella Cornia, Lorenzo Baraldi, Giuseppe Serra, Rita Cucchiara. [Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model](https://arxiv.org/abs/1611.09571). arXiv 2016. 
 * 27/01/17 ([Slides](http://www.slideshare.net/xavigiro/plug-play-generative-networks-conditional-iterative-generation-of-images-in-latent-space-upc-reading-group) by Víctor Garcia) Nguyen A, Yosinski J, Bengio Y, Dosovitskiy A, Clune J (2016). [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](http://www.evolvingai.org/ppgn). arXiv 1612.00005. 
