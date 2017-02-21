@@ -22,6 +22,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
+* 13/03/2017 (Dídac Surís) Abu-El-Haija, Sami, Nisarg Kothari, Joonseok Lee, Paul Natsev, George Toderici, Balakrishnan Varadarajan, and Sudheendra Vijayanarasimhan. ["Youtube-8m: A large-scale video classification benchmark."](https://arxiv.org/abs/1609.08675) arXiv preprint arXiv:1609.08675 (2016). [[project](https://research.google.com/youtube8m/)]
 * 06/03/2017 (Alberto Bozal): Bashivan, Pouya, Irina Rish, Mohammed Yeasin, and Noel Codella. ["Learning representations from EEG with deep recurrent-convolutional neural networks."](https://arxiv.org/abs/1511.06448) ICLR 2016. [[code](https://github.com/pbashivan/EEGLearn)]
 * 20/02/2017 ([Slides](https://www.slideshare.net/xavigiro/02-shuffle-and-learn-unsupervised-learning-using-temporal-order-verification) by Xunyu Lin): Misra, Ishan, C. Lawrence Zitnick, and Martial Hebert. ["Shuffle and learn: unsupervised learning using temporal order verification."](https://arxiv.org/abs/1603.08561) ECCV 2016. [[code](https://github.com/imisra/shuffle-tuple)]
 
