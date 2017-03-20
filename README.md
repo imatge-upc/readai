@@ -22,6 +22,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
+* 27/03/2017 (Alberto Bozal) Spampinato, Concetto, Simone Palazzo, Isaak Kavasidis, Daniela Giordano, Mubarak Shah, and Nasim Souly. "Deep Learning Human Mind for Automated Visual Classification." CVPR 2017.
 * 20/03/2017 (Fran Roldan): Zhang, Hanwang, Zawlin Kyaw, Shih-Fu Chang, and Tat-Seng Chua. ["Visual Translation Embedding Network for Visual Relation Detection."](https://arxiv.org/abs/1702.08319) CVPR 2017. [[demo](http://cvpr.zl.io/)]
 * 13/03/2017 (Dídac Surís) Abu-El-Haija, Sami, Nisarg Kothari, Joonseok Lee, Paul Natsev, George Toderici, Balakrishnan Varadarajan, and Sudheendra Vijayanarasimhan. ["Youtube-8m: A large-scale video classification benchmark."](https://arxiv.org/abs/1609.08675) arXiv preprint arXiv:1609.08675 (2016). [[project](https://research.google.com/youtube8m/)]
 * 06/03/2017 ([Slides](https://www.slideshare.net/xavigiro/learning-representations-from-eeg-with-deep-recurrent-convolutional-neural-networks) by Alberto Bozal): Bashivan, Pouya, Irina Rish, Mohammed Yeasin, and Noel Codella. ["Learning representations from EEG with deep recurrent-convolutional neural networks."](https://arxiv.org/abs/1511.06448) ICLR 2016. [[code](https://github.com/pbashivan/EEGLearn)]
