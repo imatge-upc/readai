@@ -23,6 +23,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
 * 17/04/2017 (Alejandro Woodward) Yao-Hung Hubert Tsai and Liang-Kang Huang and Ruslan Salakhutdinov, ["Learning Robust Visual-Semantic Embeddings"](https://arxiv.org/abs/1703.05908) arXiv:1703.05908, 2017.
+* 10/04/2017 (Manel Baradad) Lu, Jiasen, Caiming Xiong, Devi Parikh, and Richard Socher. ["Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning."](https://arxiv.org/abs/1612.01887) CVPR 2017
 * ??/??/2017 (Alberto Bozal) Spampinato, Concetto, Simone Palazzo, Isaak Kavasidis, Daniela Giordano, Mubarak Shah, and Nasim Souly. ["Deep Learning Human Mind for Automated Visual Classification."](https://arxiv.org/abs/1609.00344) CVPR 2017.
 * ??/??/2017 (Xavi Giro) Yang, Jianwei, Anitha Kannan, Dhruv Batra, and Devi Parikh. "LR-GAN: Layered recursive generative adversarial networks for image generation." ICLR 2017
 * 20/03/2017 ([Slides](https://www.slideshare.net/xavigiro/visual-translation-embedding-network-for-visual-relation-detection-upc-reading-group) by Fran Roldan): Zhang, Hanwang, Zawlin Kyaw, Shih-Fu Chang, and Tat-Seng Chua. ["Visual Translation Embedding Network for Visual Relation Detection."](https://arxiv.org/abs/1702.08319) CVPR 2017. [[demo](http://cvpr.zl.io/)]
