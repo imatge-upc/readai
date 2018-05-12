@@ -1,10 +1,10 @@
 # ReadAI
 ## Artificial Intelligence Reading Group in UPC Barcelona
 
-A joint collaboration between:
+An initiative from:
 
 | ![logo-upc] | 
-|:-:|:-:|
+|:-:|
 | [Image Processing Group at Universitat Politecnica de Catalunya (UPC)][gpi-web] | 
 
 [gpi-web]: https://imatge.upc.edu/web/ 
