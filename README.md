@@ -3,28 +3,53 @@
 
 A joint collaboration between:
 
-| ![logo-upc] | ![logo-ub] |
+| ![logo-upc] | 
 |:-:|:-:|
-| [Image Processing Group at Universitat Politecnica de Catalunya (UPC)][gpi-web] | [Computer Vision Group at Universitat de Barcelona (UB)][cvub-web] | 
+| [Image Processing Group at Universitat Politecnica de Catalunya (UPC)][gpi-web] | 
 
 [gpi-web]: https://imatge.upc.edu/web/ 
-[cvub-web]: http://www.ub.edu/cvub/
 
 [logo-upc]: ./logos/upc.jpg "Universitat Politecnica de Catalunya"
 [logo-ub]: ./logos/ub.png "Universitat de Barcelona"
 
 How do computers learn ? Can the see, listean or reason the way humans do ? The Artificial Intelligence Reading Group (ReadAI) addresses these problems. 
 
-The reading group will meet at UPC and UB analyze a recent scientific publication. Each week, a different member of the group will prepare a set of slides to be shared and discussed with the attendees, who will have also previously read the paper. UPC-MET students will receive the corresponding ECTS according to their activity before and during each session. If you are interested in attending, send an e-mail to professor [Xavier Giró](xavier.giro@upc.edu) from the [UPC Image Processing Group](http://www.imatge.upc.edu/).
+The reading group will meet at UPC analyze a recent scientific publication. Each week, a different member of the group will prepare a set of slides to be shared and discussed with the attendees, who will have also previously read the paper. UPC-MET students will receive the corresponding ECTS according to their activity before and during each session. If you are interested in attending, send an e-mail to professor [Xavier Giró](xavier.giro@upc.edu) from the [UPC Image Processing Group](http://www.imatge.upc.edu/).
 
 Other reading groups with public listings: [University of Texas](http://vision.cs.utexas.edu/readinggroup/), [University of Toronto](http://www.cs.toronto.edu/~mbrubake/visreading/), [University of British Columbia](http://www.cs.ubc.ca/labs/lci/cvrg/), [Stanford University](https://www.facebook.com/groups/855857951197037/), [The Berkeley View](https://theberkeleyview.wordpress.com/). 
 
 
+## SPRING 2018
+
+
+* 04/06/2018 (Amanda Duarte): Chung, Joon Son, and Andrew Zisserman. ["Learning to lip read words by watching videos."](http://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18/chung18.pdf) CVIU 2018.
+
+* 28/05/2018 (Akis Linardos): Wang, Wenguan, Jianbing Shen, Fang Guo, Ming-Ming Cheng, and Ali Borji. ["Revisiting Video Saliency: A Large-scale Benchmark and a New Model."](https://arxiv.org/abs/1801.07424) CVPR 2018
+
+* 15/05/2018 (Víctor Campos): Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu, ["Population Based Training of Neural Networks"](https://arxiv.org/abs/1711.09846). arXiv preprint arXiv:1711.09846, 2017
+
+* 08/05/2018 (Míriam Bellver): De Brabandere, Bert, Davy Neven, and Luc Van Gool. ["Semantic instance segmentation with a discriminative loss function."](https://arxiv.org/abs/1708.02551) arXiv preprint arXiv:1708.02551 (2017).
+
+* 08/05/2018 (Míriam Bellver): Fathi, Alireza, Zbigniew Wojna, Vivek Rathod, Peng Wang, Hyun Oh Song, Sergio Guadarrama, and Kevin P. Murphy. ["Semantic instance segmentation via deep metric learning."](https://arxiv.org/abs/1703.10277) arXiv preprint arXiv:1703.10277 (2017).
+
+* 24/04/2018 (Andreu Girbau): Rastegari, Mohammad, Vicente Ordonez, Joseph Redmon, and Ali Farhadi. ["Xnor-net: Imagenet classification using binary convolutional neural networks."](https://arxiv.org/abs/1603.05279) ECCV 2016.
+
+* 10/04/2018 (Carles Ventura): Liu, Shu, Lu Qi, Haifang Qin, Jianping Shi, and Jiaya Jia. ["Path aggregation network for instance segmentation."](https://arxiv.org/abs/1803.01534) CVPR 2018.
+
+* 20/03/2018 (Miguel García): AlQuraishi, Mohammed. ["End-to-end differentiable learning of protein structure."](https://www.biorxiv.org/content/early/2018/02/14/265231) bioRxiv (2018): 265231.
+
+* 08/03/2018 (Víctor Campos) Smith, Samuel L., Pieter-Jan Kindermans, and Quoc V. Le. ["Don't Decay the Learning Rate, Increase the Batch Size."](https://arxiv.org/abs/1711.00489) ICLR 2018.
+
+* 01/03/2018 (Amaia Salvador): Sabour, Sara, Nicholas Frosst, and Geoffrey E. Hinton. ["Dynamic routing between capsules."](http://papers.nips.cc/paper/6975-dynamic-routing-between-capsules) NIPS 2017.
+
+* 20/02/2018 (Míriam Bellver): Aaron van den Oord, Oriol Vinyals, ["Neural discrete representation learning"](http://papers.nips.cc/paper/7210-neural-discrete-representation-learning) NIPS 2017.
+
+* 08/02/2018 (Víctor Campos): Ioffe, Sergey, and Christian Szegedy. ["Batch normalization: Accelerating deep network training by reducing internal covariate shift."](https://arxiv.org/abs/1502.03167). ICML 2015.
+
+
+
 ## SPRING 2017
 #### Usually on Mondays from 17:15 to 18:00 @ [UPC Campus Nord in Building D5, Room 003](https://imatge.upc.edu/web/contact)	
-* ??/??/2017 (Xavi Giro) Yang, Jianwei, Anitha Kannan, Dhruv Batra, and Devi Parikh. "LR-GAN: Layered recursive generative adversarial networks for image generation." ICLR 2017
-* ??/??/?? (Xavi Giró) Karessli, Nour, Zeynep Akata, Andreas Bulling, and Bernt Schiele. ["Gaze Embeddings for Zero-Shot Image Classification."](https://arxiv.org/abs/1611.09309). CVPR 2017
-* ??/??/2017 (Amaia Salvador) Lu, Jiasen, Caiming Xiong, Devi Parikh, and Richard Socher. ["Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning."](https://arxiv.org/abs/1612.01887) CVPR 2017
 * 06/06/2017 ([Slides](https://www.slideshare.net/xavigiro/inferring-and-executing-programs-for-visual-reasoning-upc-reading-group) by Fran Roldan) Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Fei-Fei Li, Larry Zitnick, Ross Girshick , [“Inferring and Executing Programs for Visual Reasoning”](http://cs.stanford.edu/people/jcjohns/iep/). arXiv 2017.
 * 22/05/2017 ([Slides](https://www.slideshare.net/xavigiro/segan-speech-enhancement-generative-adversarial-network) by Santiago Pascual) Pascual, Santiago, Antonio Bonafonte, and Joan Serrà. ["SEGAN: Speech Enhancement Generative Adversarial Network."](https://arxiv.org/abs/1703.09452) arXiv preprint arXiv:1703.09452 (2017).
 * 08/05/2017 (Alejandro Woodward) Yao-Hung Hubert Tsai and Liang-Kang Huang and Ruslan Salakhutdinov, ["Learning Robust Visual-Semantic Embeddings"](https://arxiv.org/abs/1703.05908) arXiv:1703.05908, 2017.
