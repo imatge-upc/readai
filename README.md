@@ -21,10 +21,9 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 ## SPRING 2018
 
+* 04/06/2018 ([Slides] by Santi Pascual): Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. ["Attention is all you need."](http://papers.nips.cc/paper/7181-attention-is-all-you-need) NIPS 2017.
 
-* 04/06/2018 (Amanda Duarte): Chung, Joon Son, and Andrew Zisserman. ["Learning to lip read words by watching videos."](http://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18/chung18.pdf) CVIU 2018.
-
-* 28/05/2018 (Akis Linardos): Wang, Wenguan, Jianbing Shen, Fang Guo, Ming-Ming Cheng, and Ali Borji. ["Revisiting Video Saliency: A Large-scale Benchmark and a New Model."](https://arxiv.org/abs/1801.07424) CVPR 2018
+* 28/05/2018 (Akis Linardos): Kaiser, Lukasz, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. "One model to learn them all."](https://arxiv.org/abs/1706.05137) arXiv preprint arXiv:1706.05137 (2017).
 
 * 15/05/2018 (Víctor Campos): Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu, ["Population Based Training of Neural Networks"](https://arxiv.org/abs/1711.09846). arXiv preprint arXiv:1711.09846, 2017
 
