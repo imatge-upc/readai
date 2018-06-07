@@ -23,7 +23,7 @@ Other reading groups with public listings: [University of Texas](http://vision.c
 
 * 04/06/2018 ([Slides] by Santi Pascual): Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. ["Attention is all you need."](http://papers.nips.cc/paper/7181-attention-is-all-you-need) NIPS 2017.
 
-* 28/05/2018 (Akis Linardos): Kaiser, Lukasz, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. "One model to learn them all."](https://arxiv.org/abs/1706.05137) arXiv preprint arXiv:1706.05137 (2017).
+* 28/05/2018 (Akis Linardos): Kaiser, Lukasz, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, and Jakob Uszkoreit. ["One model to learn them all."](https://arxiv.org/abs/1706.05137) arXiv preprint arXiv:1706.05137 (2017).
 
 * 15/05/2018 (Víctor Campos): Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu, ["Population Based Training of Neural Networks"](https://arxiv.org/abs/1711.09846). arXiv preprint arXiv:1711.09846, 2017
 
